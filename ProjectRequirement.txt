@@ -1,0 +1,8 @@
+The requirements for the test project are:
+Customer Management
+
+The client needs REST APIs to handle a few incoming/outcoming client information and store it in CSV files for another system to consume.
+
+You’ll need to create two different folders for this project, one for testing purposes that can be called testing and another folder for production. The files should be named Customers-QA and Customers-PRD respectively.
+
+Expected headers for the customer: Client Key, First Name, Middle Name, Last Name, BirthDate, Height, Weight, Billing Street, Billing City, Billing State, Billing Postal Code, Billing Country, Created Date.

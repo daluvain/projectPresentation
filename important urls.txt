@@ -1,0 +1,4 @@
+API documentation url: http://localhost:8081/console/
+
+Application endpoint url: 
+http://localhost:8081/CustomerManagementAPI/storeDataInCSVFiles
